@@ -13,10 +13,7 @@ Double click copyfilenames.ahk
 
 **Tip**
 
-You can remap the paste key to a key closer to your enter key, it's inside the .ahk file
+You can remap the paste key to a key using the .ahk file
 
-Modifying the batch file is pretty easy, for example you want to come back and do this with a list of Internal Names, just save it as .txt files and change \*.smx to \*.txt
-
-Or create one big txt file with all your strings and iterate line by line. i think it's pretty simple to modify the batch file, I just happened to have lots of graphics files in a folder
 
 Autohotkey - https://www.autohotkey.com/
