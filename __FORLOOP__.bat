@@ -9,7 +9,7 @@ echo The script will copy the next filename for you
 echo FILENAME
 FOR %%v IN (*.smx) DO (
 echo %%~nv
-echo %%~nv | clip
+echo %%~nv| clip
 pause >nul
 )
 echo.
